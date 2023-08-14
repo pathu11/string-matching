@@ -1,0 +1,1 @@
+Certainly! The '?' character in a regular expression is used to indicate that the preceding character or group is optional. It matches either zero occurrences or a single occurrence of the preceding element. Here's an example of how the '?' character works in a regular expression:

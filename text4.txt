@@ -1,0 +1,1 @@
+we use color in css tag as the colour.
